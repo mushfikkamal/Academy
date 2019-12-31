@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12671" started-at="2019-12-30T23:16:04 EST" finished-at="2019-12-30T23:16:17 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12671" started-at="2019-12-30T23:16:04 EST" finished-at="2019-12-30T23:16:17 EST">
+      <class name="Testing1.Academy.homepage">
+        <test-method status="PASS" signature="homepage()[pri:0, instance:Testing1.Academy.homepage@3e27aa33]" name="homepage" is-config="true" duration-ms="10082" started-at="2019-12-30T23:16:04 EST" finished-at="2019-12-30T23:16:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method status="PASS" signature="landing(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testing1.Academy.homepage@3e27aa33]" name="landing" duration-ms="1613" started-at="2019-12-30T23:16:15 EST" data-provider="getData" finished-at="2019-12-30T23:16:16 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[khabbar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kamalm]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[p343434]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[good user]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landing -->
+        <test-method status="PASS" signature="landing(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testing1.Academy.homepage@3e27aa33]" name="landing" duration-ms="698" started-at="2019-12-30T23:16:16 EST" data-provider="getData" finished-at="2019-12-30T23:16:17 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rahim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mushf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[p343434]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bad ser]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landing -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Testing1.Academy.homepage@3e27aa33]" name="teardown" is-config="true" duration-ms="195" started-at="2019-12-30T23:16:17 EST" finished-at="2019-12-30T23:16:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testing1.Academy.homepage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
